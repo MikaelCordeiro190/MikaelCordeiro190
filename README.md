@@ -2,9 +2,7 @@
 
 #### Olá! Eu sou o Mikael Cordeiro 🔬 🤖
 
-# Meu principal objetivo é construir produtos de dados para aumentar a receita da empresa e também reduzir custos.
-Como profissional, sempre me esforcei para aprender habilidades para me tornar um Cientista de Dados independente, capaz de construir um projeto ponta a ponta, desde a coleta de dados até a criação e implantação de modelos de ML. 
-Neste momento da minha carreira, sinto-me confiante em minha expertise e capacidade de construir soluções relevantes para melhorar os resultados da empresa e, assim, me tornar um profissional de destaque. 
+Meu principal objetivo é construir produtos de dados para aumentar a receita da empresa e também reduzir custos.Como profissional, sempre me esforcei para aprender habilidades para me tornar um Cientista de Dados independente, capaz de construir um projeto ponta a ponta, desde a coleta de dados até a criação e implantação de modelos de ML. Neste momento da minha carreira, sinto-me confiante em minha expertise e capacidade de construir soluções relevantes para melhorar os resultados da empresa e, assim, me tornar um profissional de destaque. 
 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white/)](https://www.linkedin.com/feed/)
