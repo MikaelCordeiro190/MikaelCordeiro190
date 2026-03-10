@@ -12,8 +12,4 @@ Meu principal objetivo é construir produtos de dados para aumentar a receita da
 ![SQL](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white/)
 ![CLOUD](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white/)
 
-![ GitHub stats](https://github-readme-stats.vercel.app/api?username=MikaelCordeiro190&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MikaelCordeiro190&hide_progress=true)
-
  
